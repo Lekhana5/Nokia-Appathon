@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nokia</string>
+    <string name="select_test_suites">Select Test Suites</string>
+    <string name="select_job_prompt">Please select a job</string>
+    <string-array name="test_environment">
+    </string-array>
+</resources>
